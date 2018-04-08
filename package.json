@@ -7,11 +7,11 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/scripting/river5"
-		},
+	},
 	"scripts": {
 		"start": "node river5.js"
-		},
-	"dependencies" : {
+	},
+	"dependencies": {
 		"request": "*",
 		"mime": "*",
 		"md5": "*",
@@ -20,9 +20,9 @@
 		"feedparser": "*",
 		"daveutils": "*",
 		"davereader": "*"
-		}, 
+	},
 	"license": "MIT",
 	"engines": {
 		"node": "0.10.*"
-		}
 	}
+}
