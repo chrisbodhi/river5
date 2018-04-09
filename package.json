@@ -9,17 +9,19 @@
 		"url": "https://github.com/scripting/river5"
 	},
 	"scripts": {
+		"deploy": "t2 push river5.js",
 		"start": "node river5.js"
 	},
 	"dependencies": {
-		"request": "*",
-		"mime": "*",
+		"davereader": "*",
+		"daveutils": "*",
+		"feedparser": "*",
 		"md5": "*",
+		"mime": "*",
 		"nodejs-websocket": "*",
 		"opmlparser": "*",
-		"feedparser": "*",
-		"daveutils": "*",
-		"davereader": "*"
+		"request": "*",
+		"tessel": "^0.3.25"
 	},
 	"license": "MIT",
 	"engines": {

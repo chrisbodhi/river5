@@ -1,0 +1,9 @@
+https://www.oglaf.com/feeds/rss/
+http://feeds.feedburner.com/panelsyndicate
+http://www.dieselsweeties.com/ds-unifeed.xml
+https://orcstain.wordpress.com/feed/
+https://royalboiler.wordpress.com/feed/
+http://www.c.urvy.org/curvy_rss2.xml
+http://api.flickr.com/services/feeds/photos_public.gne?id=21404314@N05&amp;lang=en-us&amp;format=atom
+https://xkcd.com/atom.xml
+https://what-if.xkcd.com/feed.atom

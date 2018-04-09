@@ -1,19 +1,23 @@
 {
 	"maxRiverItems": 300,
-	"homePage": { 
+	"homePage": {
 		"panels": [
 			{
-				"title": "Main",
-				"river": "myOpmlFeeds.js"
-				},
+				"title": "Zeros and Ones",
+				"river": "zerosAndOnes.js"
+			},
 			{
-				"title": "NYT",
-				"river": "nyt.js"
-				},
+				"title": "Long-Term",
+				"river": "longTerm.js"
+			},
 			{
-				"title": "Hacker News",
-				"river": "hn.js"
-				}
-			]
-		}
+				"title": "Short-Term",
+				"river": "shortTerm.js"
+			},
+			{
+				"title": "Comics",
+				"river": "comics.js"
+			}
+		]
 	}
+}
